@@ -13,6 +13,6 @@ https://github.com/MIT-LCP/mimic-code/tree/master/buildmimic/mysql
 4. SQL Data Export and Import Wizard(slow)  
 https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html  
 
-5. Run This Sql File(slow)  
+5. Run This Sql File in Workbench(slow)  
 
-6. save as file and for your work task 
+6. Save As File And For Your Work Task 
